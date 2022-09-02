@@ -27,6 +27,5 @@ public class Main {
                 break;
         }
         System.out.println("Бассейн наполнен за " + time + " минут");
-        System.out.println("Бассейн наполнен за " + time + " минут");
     }
 }
